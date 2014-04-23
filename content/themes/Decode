@@ -1,2 +1,4 @@
-$ git init
-$ git clone git://github.com/iamsirriz/Decode-for-Ghost.git
+$ git clone --mirror https://github.com/iamsirriz/Decode-for-Ghost.git
+
+$ cd Decode-for-Ghost.git
+$ git remote set-url --push origin https://github.com/iamsirriz/Decode-for-Ghost
